@@ -1,7 +1,7 @@
 ## elcio caldeira andrade
 <a href="https://github.com/elcio96">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elcio96&count_private=true&&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elcio96&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elcio96&count_private=true&show_icons=true&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
